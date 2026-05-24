@@ -1,0 +1,33 @@
+{
+	"videoDataVersion": 18,
+	"multiClip":
+	{
+		"selectId": "9DF0230546F1A8CC03646DA2A63BF53B",
+		"workSetSelectId":
+		{
+		},
+		"data": [
+			{
+				"id": "9DF0230546F1A8CC03646DA2A63BF53B",
+				"workSetId": "",
+				"name": "Clip 1",
+				"selectId": "",
+				"keyFrames": [],
+				"actorKeyFramesForJson":
+				{
+				},
+				"layerKeyFramesForJson":
+				{
+				},
+				"shots":
+				{
+					"selectId": "",
+					"data": []
+				},
+				"pathData": [],
+				"growthAnimationJson": [],
+				"isRenderClip": false
+			}
+		]
+	}
+}
