@@ -6,17 +6,28 @@ i made this project because i kept breathing in soldering fumes which was probab
 
 it uses a noctua fan, and an esp32s3 to control it, and is powered by a 12v barrel power source. the case is 3d printed.
 
-![poster](POSTER.png)
+![poster](assets/POSTER.png)
 
-Wiring diagram:
+## Wiring diagram:
 
-![wiring](WIRING.png)
+![wiring](assets/WIRING.png)
 
-CAD: https://cad.onshape.com/documents/a80b4d4af3d5718c159f3428/w/04668cddc08b6ee75e163b3f/e/2fbe059b941e165c6cd4dcd1?renderMode=0&uiState=6a126e6f2b809c76643f81a4
+## CAD: https://cad.onshape.com/documents/a80b4d4af3d5718c159f3428/w/04668cddc08b6ee75e163b3f/e/2fbe059b941e165c6cd4dcd1?renderMode=0&uiState=6a126e6f2b809c76643f81a4
 
-![cad](CAD.png)
+![cad](assets/CAD.png)
 
-BOM:
+## Assembly instructions:
+1. 3d-print the fan case
+2. Place the noctua fan in the slot
+3. use heat-set inserts to screw in the fan to the case
+4. connect the adapter screw termins into the fan according to the wiring diagram
+5. solder a wire onto the remaining fan pins to the devboard
+6. plug a barrel jack power supply into adapter
+7. upload firmware to devboard
+8. place the adapter and devboard at the back, and close it with the solid plate
+
+
+## BOM:
 
 |Item                                    |Link                                                                                              |Price (CAD)|
 |----------------------------------------|--------------------------------------------------------------------------------------------------|-----------|
