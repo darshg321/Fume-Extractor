@@ -8,6 +8,10 @@ it uses a noctua fan, and an esp32s3 to control it, and is powered by a 12v barr
 
 ![poster](assets/POSTER.png)
 
+![build](assets/BUILD.png)
+
+![render](assets/object.png)
+
 ## Wiring diagram:
 
 ![wiring](assets/WIRING.png)
