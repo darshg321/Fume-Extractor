@@ -6,6 +6,9 @@ i made this project because i kept breathing in soldering fumes which was probab
 
 it uses a noctua fan, and an esp32s3 to control it, and is powered by a 12v barrel power source. the case is 3d printed.
 
+## Demo
+https://youtu.be/nK1IK6mNC_M
+
 ![poster](assets/POSTER.png)
 
 ![build](assets/BUILD.png)
